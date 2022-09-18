@@ -18,3 +18,8 @@ b. Add description of changes
 c. Check "Allow edits by maintainers"
 d. "Create pull request"
 6. Wait for email with a confirmation or make necessary changes.
+
+
+git config user.name "Eduard Kovalchuk"
+git config user.email eduardkovalchuk@mail.ru
+git config alias.history 'log --graph'
